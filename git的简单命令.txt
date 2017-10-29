@@ -1,0 +1,5 @@
+git staus：查看仓库当前的状态
+
+git diff file：查看文件改动
+
+git push -u origin master：把本地库的所有内容推送到远程库上
